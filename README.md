@@ -1,16 +1,20 @@
-## Hi there 👋
+# heyya i'm gauri 
 
-<!--
-**gaurisaksena/gaurisaksena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 i’m an aspiring deep learning researcher and full-stack developer  
+🧠 currently exploring the intersection of AI, NLP, and multimodal data (images, memes, etc) with consistently sharpening my skills in web development  
+🧪 passionate about building intelligent systems and tools that make a difference
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### let's connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gauri-saksena-bb241b251/)
+
+
+---
+
+### 📈 GitHub Stats
+
+![Gauri's GitHub stats](https://github-readme-stats.vercel.app/api?username=gaurisaksena&show_icons=true&theme=radical)
+
+
